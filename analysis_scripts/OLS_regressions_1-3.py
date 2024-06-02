@@ -8,7 +8,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from scipy.stats import pearsonr
 
 # Load the isolated CSV file
-csv_file_path = 'isolated_output_cleaned.csv'
+csv_file_path = '../survey_data/isolated_output_cleaned.csv'
 df = pd.read_csv(csv_file_path)
 
 # Define the columns for each category of interest
