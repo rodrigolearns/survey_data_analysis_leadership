@@ -1,3 +1,4 @@
+```
 Model 1: Supervisor Narcissism and Gossip about Supervisor
                             OLS Regression Results                            
 ==============================================================================
@@ -105,3 +106,4 @@ VIF for Model 3:
 1                 snarc    4.842090
 2          gossip_ratio   31.709589
 3  snarc_x_gossip_ratio   37.783320
+```
